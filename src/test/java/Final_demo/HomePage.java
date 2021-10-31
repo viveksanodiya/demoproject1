@@ -10,6 +10,7 @@ import PageObjects.LoginPageObjects;
 import resources.Base_class;
 
 public class HomePage extends Base_class {
+	// just to veryfi
 
 	@Test(dataProvider = "getdata")
 	
