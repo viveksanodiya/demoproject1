@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-29T18:18:34 IST" name="Default suite" finished-at="2021-10-29T18:19:14 IST" duration-ms="39491">
+    <groups>
+    </groups>
+    <test started-at="2021-10-29T18:18:34 IST" name="Default test" finished-at="2021-10-29T18:19:14 IST" duration-ms="39491">
+      <class name="Final_demo.HomePageAllen">
+        <test-method signature="homepageallennavigation(java.lang.String,java.lang.String)[pri:0, instance:Final_demo.HomePageAllen@3246fb96]" started-at="2021-10-29T18:18:34 IST" name="homepageallennavigation" data-provider="getdata" finished-at="2021-10-29T18:18:56 IST" duration-ms="21294" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tet@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secure@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageallennavigation -->
+        <test-method signature="homepageallennavigation(java.lang.String,java.lang.String)[pri:0, instance:Final_demo.HomePageAllen@3246fb96]" started-at="2021-10-29T18:18:56 IST" name="homepageallennavigation" data-provider="getdata" finished-at="2021-10-29T18:19:14 IST" duration-ms="18059" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test1@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secure@5678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageallennavigation -->
+      </class> <!-- Final_demo.HomePageAllen -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

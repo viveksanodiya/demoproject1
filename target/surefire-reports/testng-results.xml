@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="114923" started-at="2021-10-30T08:38:15 IST" finished-at="2021-10-30T08:40:10 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="114923" started-at="2021-10-30T08:38:15 IST" finished-at="2021-10-30T08:40:10 IST">
+      <class name="Final_demo.HomePageAllen">
+        <test-method status="PASS" signature="homepageallennavigation(java.lang.String,java.lang.String)[pri:0, instance:Final_demo.HomePageAllen@369f73a2]" name="homepageallennavigation" duration-ms="22678" started-at="2021-10-30T08:39:10 IST" data-provider="getdata" finished-at="2021-10-30T08:39:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tet@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secure@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageallennavigation -->
+        <test-method status="PASS" signature="homepageallennavigation(java.lang.String,java.lang.String)[pri:0, instance:Final_demo.HomePageAllen@369f73a2]" name="homepageallennavigation" duration-ms="36906" started-at="2021-10-30T08:39:33 IST" data-provider="getdata" finished-at="2021-10-30T08:40:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test1@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secure@5678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageallennavigation -->
+      </class> <!-- Final_demo.HomePageAllen -->
+      <class name="Final_demo.HomePage">
+        <test-method status="PASS" signature="hompagenavigation(java.lang.String,java.lang.String)[pri:0, instance:Final_demo.HomePage@185d8b6]" name="hompagenavigation" duration-ms="33421" started-at="2021-10-30T08:38:15 IST" data-provider="getdata" finished-at="2021-10-30T08:38:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vivek]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hompagenavigation -->
+        <test-method status="PASS" signature="hompagenavigation(java.lang.String,java.lang.String)[pri:0, instance:Final_demo.HomePage@185d8b6]" name="hompagenavigation" duration-ms="21796" started-at="2021-10-30T08:38:49 IST" data-provider="getdata" finished-at="2021-10-30T08:39:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[neeta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hompagenavigation -->
+      </class> <!-- Final_demo.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
